@@ -7,6 +7,7 @@
     android:orientation="vertical"
     tools:context=".activities.MainActivity">
 
+    <include android:id="@+id/toolbar" layout="@layout/custom_toolbar"/>
     <GridView
         android:id="@+id/gallery"
         android:verticalSpacing="2dp"

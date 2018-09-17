@@ -4,8 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-
+    <GridView
+        android:id="@+id/gallery"
+        android:verticalSpacing="2dp"
+        android:horizontalSpacing="2dp"
+        android:stretchMode="columnWidth"
+        android:numColumns="auto_fit"
+        android:gravity="center"
+        android:columnWidth="170dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </LinearLayout>

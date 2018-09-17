@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Custom Grid View Gallery</string>
+    <string name="name_text">Enter name...</string>
+    <string name="profession_text">Enter profession</string>
 </resources>

@@ -2,7 +2,7 @@
 
 Android custom gridview gallery with text and image
 
-![](https://www.asifszone.com/wp-content/uploads/2018/09/Screenshot_20180917-1601031-e1537178631512.png)
+![](file:///C:/Users/SteeL/Desktop/Capture23.JPG)
 
 ## How to use ?
 First copy the line given below and clone the repository.Then compile and run :)
